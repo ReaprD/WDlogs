@@ -1,3 +1,3 @@
-#WD Logs
+#WD
 
 This Repository keeps logs of my WD adventure.
